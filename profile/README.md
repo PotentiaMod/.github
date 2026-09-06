@@ -1,4 +1,4 @@
-# ![PotentiaMod](./logo.png "<span style="color:4800CC">some *PotentiaMod* text</span>.")
+# ![PotentiaMod](./logo.png) <span style="color:4800CC">some *PotentiaMod* text</span>
 ## It Makes the Very Best!
 > Meet `PotentiaMod`, Master App of All Scratch Mods!
 ![PotentiaModScreenshot](./screenshot.png)
